@@ -37,7 +37,7 @@ const Header = () => {
                     <button className="h-8 px-6 bg-gradient-to-r from-gray-600 
             to-gray-300 rounded-lg font-medium text-nowrap hover:opacity-70 
             transition-all duration-300">
-                        PLAY NOW
+                         NFT STORE
                     </button>
 
                 </div>

@@ -332,6 +332,7 @@ const Characters = () => {
         </div>
 
 
+    
     )
 }
 
