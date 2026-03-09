@@ -222,7 +222,7 @@ const Characters = () => {
                             {/* Avatar visual placeholder*/}
 
                             <div className="w-20 h-20 bg-gray-800/50 rounded-md items-center justify-center mb-2">
-                                <img src="public/images/VIKI.png" alt="viki" />
+                                <img src="/VIKI.png" alt="viki" />
                             </div>
 
                             {/* star icon */}
@@ -254,7 +254,7 @@ const Characters = () => {
                             {/* Avatar visual placeholder*/}
 
                             <div className="w-20 h-20 bg-gray-800/50 rounded-md items-center justify-center mb-2">
-                                <img src="public/images/EVA.png" alt="EVA" />
+                                <img src="/EVA.png" alt="EVA" />
                             </div>
 
                             {/* star icon */}
