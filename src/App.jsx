@@ -1,8 +1,8 @@
-import Header from "./components/header";
+import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Arena from "./components/Arena";
 import Characters from "./components/Characters";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 export const App = () => {
   return (
     <div className=''>
